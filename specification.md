@@ -9,9 +9,6 @@
     - [Functions](#functions)
       - [Web Application](#web-application)
       - [Android Application](#android-application)
-  - [GUI Designs](#gui-designs)
-    - [Mobile Application](#mobile-application)
-    - [Web Application](#web-application-1)
 
 ## Description 
 
@@ -48,9 +45,3 @@ Uses the service via the mobile application.
 - **List pictures(user)**: Unfiltered, or filtered by category
 - **Search(user)**: Fuzzy text search in all the pictures
 - **Rating(user)**: Rating of pictures on a 1-5 scale
-
-## GUI Designs
-
-### [Mobile Application](https://www.figma.com/file/I8u06W71sjtWlPFUwvjOQu/Untitled?node-id=0%3A1)
-
-### [Web Application](https://www.figma.com/file/wXklaVaNdsgh9i30ZG5wcI/Untitled?node-id=0%3A1)

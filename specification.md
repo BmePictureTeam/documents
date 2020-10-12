@@ -53,4 +53,4 @@ Uses the service via the mobile application.
 
 ### [Mobile Application](https://www.figma.com/file/I8u06W71sjtWlPFUwvjOQu/Untitled?node-id=0%3A1)
 
-### [Web Application](https://www.figma.com/file/I8u06W71sjtWlPFUwvjOQu/Untitled?node-id=0%3A1)
+### [Web Application](https://www.figma.com/file/wXklaVaNdsgh9i30ZG5wcI/Untitled?node-id=0%3A1)
